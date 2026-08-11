@@ -25,6 +25,7 @@ User manuals and RS-485 Modbus web monitoring panel for EPM-310 voltage regulato
 | 🇬🇧 SM-2603 | [PDF](https://github.com/Sabir392/devices/raw/main/SM-2603-en.pdf) |
 | 🇷🇺 SM-2603 | [PDF](https://github.com/Sabir392/devices/raw/main/SM-2603-ru.pdf) |
 | 📐 SM-2603 DXF | [RAR](https://github.com/Sabir392/devices/raw/main/SM-2603%20DXF.rar) |
+| 🔌 SM-2603 Disk Tristör Gate Bağlantısı | [PDF](https://github.com/Sabir392/devices/raw/main/SM-2603%20disk.pdf) |
 | 🇹🇷 SM-2603P | [PDF](https://github.com/Sabir392/devices/raw/main/SM-2603P-tr.pdf) |
 | 🇬🇧 SM-2603P | [PDF](https://github.com/Sabir392/devices/raw/main/SM-2603P-en.pdf) |
 | 🇷🇺 SM-2603P | [PDF](https://github.com/Sabir392/devices/raw/main/SM-2603P-ru.pdf) |
